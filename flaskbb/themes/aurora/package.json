@@ -25,7 +25,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@github/markdown-toolbar-element": "^2.1.1",
-    "@popperjs/core": "^2.11.5",
+    "@popperjs/core": "^2.11.6",
     "@textcomplete/core": "^0.1.11",
     "@textcomplete/textarea": "^0.1.11",
     "bootstrap": "^5.1.3",
