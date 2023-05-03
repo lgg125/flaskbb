@@ -14,7 +14,7 @@ click-plugins==1.1.1
 click-repl==0.2.0
 dnspython==2.2.1
 email-validator==1.2.1
-Flask==2.1.2
+Flask==2.2.5
 Flask-Alembic==2.0.1
 flask-allows @ git+https://github.com/flaskbb/flask-allows.git@master#egg=flask-allows
 Flask-BabelPlus==2.2.0
